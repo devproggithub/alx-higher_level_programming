@@ -1,4 +1,3 @@
-9-logme.js
 #!/usr/bin/node
 let narg = 0;
 
