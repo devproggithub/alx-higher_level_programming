@@ -1,4 +1,3 @@
-10-converter.js
 #!/usr/bin/node
 
 exports.converter = function (base) {
