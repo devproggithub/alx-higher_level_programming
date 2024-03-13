@@ -1,4 +1,3 @@
-7-occurrences.js
 #!/usr/bin/node
 exports.nbOccurences = function (list, searchElement) {
   let nOccurrences = 0;
